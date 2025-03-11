@@ -67,3 +67,9 @@ masOS Chrome 133.0.6943.142
 
 + При оформлении множества товаров правильно рассчитывается их количество ✅
 <img width="1339" alt="image" src="https://github.com/user-attachments/assets/8374b91f-9758-4757-adaa-0c7696400c37" />
+
++ При большом количестве символов в имени - съезжает в строке получатель; ❌
+<img width="808" alt="image" src="https://github.com/user-attachments/assets/6246757d-665c-49a9-b4ee-53834d2d41a0" />
+
++ При длинном адресе съезжает верстка. ❌ 
+<img width="1345" alt="image" src="https://github.com/user-attachments/assets/f3212604-164f-4eb8-891d-cc08593c54ae" />
