@@ -6,6 +6,13 @@
 
 masOS Chrome 133.0.6943.142
 
++ При переходе на страницу оформления заказа, открывается окно авторизации; ✅ 
+<img width="1595" alt="image" src="https://github.com/user-attachments/assets/410ff9f9-5eb5-4b52-802e-d77753ad9cf3" />
+<img width="1789" alt="image" src="https://github.com/user-attachments/assets/300ed3cc-3f12-4ff9-80da-26fbd4999d3e" />
+
++ При переходе на страницу оформления заказа, будучи зарегистрированным, открывается страница оформления; ✅
+<img width="1799" alt="image" src="https://github.com/user-attachments/assets/d713e3a5-df52-4e18-9892-46e2d27cc1bf" />
+
 + При нажатии на кнопку "Заказать", открывается страница "Мои заказы", заказ добавлется; ✅
 <img width="1353" alt="image" src="https://github.com/user-attachments/assets/90b1396f-17a3-4baa-9138-347345c95fdb" />
 
