@@ -6,6 +6,13 @@
 
 masOS Chrome 133.0.6943.142
 
++ При переходе на страницу оформления заказа, открывается окно авторизации; ✅ 
+<img width="1595" alt="image" src="https://github.com/user-attachments/assets/410ff9f9-5eb5-4b52-802e-d77753ad9cf3" />
+<img width="1789" alt="image" src="https://github.com/user-attachments/assets/300ed3cc-3f12-4ff9-80da-26fbd4999d3e" />
+
++ При переходе на страницу оформления заказа, будучи зарегистрированным, открывается страница оформления; ✅
+<img width="1799" alt="image" src="https://github.com/user-attachments/assets/d713e3a5-df52-4e18-9892-46e2d27cc1bf" />
+
 + При нажатии на кнопку "Заказать", открывается страница "Мои заказы", заказ добавлется; ✅
 <img width="1353" alt="image" src="https://github.com/user-attachments/assets/90b1396f-17a3-4baa-9138-347345c95fdb" />
 
@@ -56,7 +63,7 @@ masOS Chrome 133.0.6943.142
 > Фактический результат: "Отображение зачеркнутой той же цены"
 <img width="1346" alt="image" src="https://github.com/user-attachments/assets/e299defe-e464-4663-a2de-1d45f2675d57" />
 
-+ Нельзя выбрать адрес доставки; ❌
++ Адрес доставки проставлен автоматически, даже если он не указан в профиле; ❌
 + При нажатии на кнопку рядом с адресом открывается страница профиля; ❌
 > [БАГ] При нажатии на кнопку рядом с адресом открывается страница профиля
 >
@@ -389,6 +396,8 @@ Ubuntu 22.04 Google Chrome Version 131.0.6778.204 (Official Build) (64-bit)
 > ![img.png](screenshots/img_13.png)
 
 
-- ✅ 
-> ![img.png](screenshots/img_14.png)
+- ✅ При нажатии на заказ, успешный переход на страницу с подробной информацией
 
+
+- ❌ Отсутс
+> ![img.png](screenshots/img_14.png)
